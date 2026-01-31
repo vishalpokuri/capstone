@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['-K', '-N', '-P', 'FN']
+
+roboflow:
+  workspace: mawaraprilla
+  project: deficiency-lettuce-npk
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mawaraprilla/deficiency-lettuce-npk/dataset/8

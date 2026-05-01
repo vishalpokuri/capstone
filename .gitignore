@@ -1,5 +1,7 @@
 .git/
 dataset/
+checkpoints/
+*.pt
 __pycache__/
 *.pyc
 *.pyo
